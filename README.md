@@ -1,4 +1,4 @@
-# Kabilash K N | Cybersecurity Portfolio
+# KABILASH K N | Cybersecurity Portfolio
 
 Welcome to my personal portfolio repository! I'm a B.Tech Computer Science and Engineering graduate specializing in Cybersecurity, interested in both offensive and defensive security.
 
